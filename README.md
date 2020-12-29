@@ -1,6 +1,6 @@
 # [COVIZ-19](https://coviz19.dev)
 
-## Interactive animated choropleth of US county COVID-19 data from JHU normalized for population.
+Interactive animated choropleth of US county COVID-19 data from JHU normalized for population.
 
 <br />
 
@@ -10,7 +10,7 @@
 
 # [wearabouts](https://wearaboutsinc.com)
 
-## Biomedical + location tracking dashboard for Apple Watch.
+Biomedical + location tracking dashboard for Apple Watch.
 
 <br />
 
@@ -20,7 +20,7 @@
 
 # [monte carlo XO](https://montecarloxo.com)
 
-## Play Tic-tac-toe against a Monte Carlo simulation with ARKit powered augmented reality gameplay.
+Play Tic-tac-toe against a Monte Carlo simulation with ARKit powered augmented reality gameplay.
 
 <br />
 
