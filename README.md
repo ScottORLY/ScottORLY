@@ -1,3 +1,5 @@
+<a href="https://apps.apple.com/us/developer/scott-orlyck/id1082162815?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&h=e25854dde2ab54a85ec52e6c1e429d64" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 # [COVIZ-19](https://coviz19.dev)
 
 Interactive animated choropleth of US county COVID-19 data from JHU normalized for population.
