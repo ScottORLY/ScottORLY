@@ -10,7 +10,7 @@ Interactive animated choropleth of US county COVID-19 data from JHU normalized f
 
 <br /><br />
 
-# [wearabouts](https://wearaboutsinc.com)
+# wearabouts
 
 Biomedical + location tracking dashboard for Apple Watch.
 
